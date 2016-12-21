@@ -7,7 +7,7 @@ import { MyApp } from './app.component';
 
 const cloudSettings: CloudSettings = {
   'core': {
-    'app_id': '19e42175'
+    'app_id': 'ff14f99c'
   }
 }
 
